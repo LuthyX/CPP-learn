@@ -1,1 +1,1 @@
-    string color, noun, celeb;
+    cout <<dayOfTheWeek(2);
