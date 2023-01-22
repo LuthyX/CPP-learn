@@ -1,1 +1,1 @@
-    cout <<dayOfTheWeek(2);
+    cout<< highest;
